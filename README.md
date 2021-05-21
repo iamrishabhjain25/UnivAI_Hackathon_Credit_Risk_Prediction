@@ -1,0 +1,2 @@
+# UnivAI_Hackathon_Credit_Risk_Prediction
+This problem was given in the Univ.AI Hackathon. The problem is a credit default risk problem where we have been given data of many customers and we have to predict who defaults on their loan. The dataset contains 12 feature column and a binary target column which tells whether the customer defaulted of not. In the above files I have used different methods and model gaining insights from the data behaviors.
